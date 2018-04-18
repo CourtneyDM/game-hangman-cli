@@ -1,0 +1,22 @@
+{
+  "name": "game-hangman-cli",
+  "version": "1.0.0",
+  "description": "Command line version of the classic game Hangman.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CourtneyDM/game-hangman-cli.git"
+  },
+  "author": "CDM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CourtneyDM/game-hangman-cli/issues"
+  },
+  "homepage": "https://github.com/CourtneyDM/game-hangman-cli#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0"
+  }
+}
